@@ -1,0 +1,71 @@
+## 1. Situation : Executive Dashboard Review – The "One-Pager" Mandate
+
+**Context:** You are a Data Analyst at a D2C subscription box company. You've spent two weeks building a comprehensive executive dashboard with 6 high-level tiles, 12 supporting charts, and interactive filters. The CEO (Jennifer) calls you into her office. She appreciates the work but says: *"This is a scoreboard, not a story. I don't know where to look first. If I have 30 seconds before my next meeting, what should I glance at?"* You need to walk her through the narrative flow of the dashboard and teach her how to read it like a story.
+
+---
+
+## 2. Conversation
+
+| Speaker       | Dialogue                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CEO (Jennifer)** | Love the dashboard, I really do. But there's so much here – revenue, active subs, churn, acquisition cost, NPS, engagement scores… I'm overwhelmed. Which number do I look at first? If I only have 30 seconds, what's the story?                                                                                                                                                                                                                                              |
+| **You (Analyst)** | That's fair feedback – and exactly why I structured it with a **narrative hierarchy**. Think of this dashboard like a newspaper: the headline, the summary paragraph, and then the details. Let me walk you through the *three-layer story* I built.                                                                                                                                                                                                                             |
+| **Jennifer** | Show me.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **You (Analyst)** | *(points to top-left)* **Layer 1 – The Headline**: This is your **North Star Metric** – Monthly Recurring Revenue (MRR). It sits alone at the top, in bold. That's your single source of truth. Today, it's $1.2M, up 3% MoM. If this number is green, you smile and move on. If it's red, you dig deeper.                                                                                                                                                                    |
+| **Jennifer** | Okay, so I check MRR first. What's Layer 2?                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **You (Analyst)** | **Layer 2 – The Drivers**: Directly below MRR, I placed the two levers that *directly* impact it – New Subscriptions (growth) and Churn Rate (loss). If MRR is red, you instantly see which lever is failing. Today, MRR is green because new subs are up 8%, even though churn crept up 0.5%. So the story in the middle is *"Growth is masking a churn problem."*                                                                                                             |
+| **Jennifer** | So I don't even look at the bottom unless I need to.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **You (Analyst)** | Exactly. **Layer 3 – The Diagnostics**: The bottom row has leading indicators – engagement scores, NPS, and acquisition cost. These tell you *why* the drivers are behaving the way they are. For example, the churn increase we see is concentrated in users whose engagement score dropped below 40 last month. So the bottom row gives you the root cause *before* it becomes a crisis.                                                                                     |
+| **Jennifer** | So the story is: top = health, middle = levers, bottom = early warnings. I read left to right, top to bottom. That's actually intuitive.                                                                                                                                                                                                                                                                                                                                        |
+| **You (Analyst)** | That's the flow. My **recommendation**: For your 30-second scan, just look at the top-left (MRR). If it's green, you're done. If it's amber, look at the middle row to see which lever is off. If it's red, look at the bottom row to diagnose the why. I've also color-coded every tile: green = good, amber = watch, red = action needed. No more guessing.                                                                                                                 |
+| **Jennifer** | This changes everything. Now I can walk into my board meetings and say: *"Revenue is up, but churn is a silent risk – and here's exactly where we need to intervene."* Exactly what I needed.                                                                                                                                                                                                                                                                                   |
+
+---
+
+## 3. Vocabulary and Expressions
+
+| Word/Phrase                     | Part of Speech | Meaning                                                                                | Example Sentence                                                                                 |
+| ------------------------------- | -------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **North Star Metric**           | Noun Phrase    | The single metric that best captures the core value your product delivers to customers | *Our North Star Metric is Monthly Active Users – everything else is secondary.*                   |
+| **Narrative hierarchy**         | Noun Phrase    | Structuring information from most important (headline) to least important (details)    | *A narrative hierarchy guides the viewer's eye and tells a clear story.*                         |
+| **Leading indicator**           | Noun Phrase    | A metric that predicts future performance (e.g., engagement score predicts churn)      | *Leading indicators help us act before problems become emergencies.*                             |
+| **Lagging indicator**           | Noun Phrase    | A metric that reflects past performance (e.g., revenue, churn rate)                    | *Revenue is a lagging indicator – by the time it drops, the damage is done.*                     |
+| **Actionable metric**           | Noun Phrase    | A metric you can directly influence through business decisions                         | *Page views is a vanity metric; conversion rate is an actionable metric.*                        |
+| **Vanity metric**               | Noun Phrase    | A metric that looks good on paper but doesn't drive business decisions                 | *Total app downloads is a vanity metric – active users is what matters.*                         |
+| **Drill-down**                  | Noun/Verb      | The ability to click from a high-level number into more detailed data                  | *I built drill-down capability so you can click on churn and see which segments are driving it.* |
+| **Filter**                      | Noun/Verb      | A control that allows users to view data for specific segments (e.g., region, plan)    | *Use the filter on the top-right to view performance by customer tier.*                          |
+| **Color coding**                | Noun           | Using colors (red, amber, green) to indicate performance against targets               | *Color coding gives you an instant visual snapshot – no reading required.*                       |
+| **KPI tiles**                   | Noun           | Individual cards on a dashboard displaying a single key metric                         | *Each KPI tile shows the number, the trend arrow, and the status color.*                         |
+| **Story arc**                   | Noun           | The narrative flow of a dashboard – what to look at first, second, and third           | *A good dashboard has a story arc: Health → Drivers → Diagnostics.*                              |
+| **Threshold / Target**          | Noun           | A predetermined value used to evaluate performance (e.g., target = 10% growth)         | *I set a threshold of 5% churn – anything above that triggers an alert.*                         |
+
+---
+
+## 4. Key Takeaways
+
+### Common Sentence Patterns (for Dashboard Storytelling)
+
+| Pattern                                                              | Use                                                                                    |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| *"Think of this dashboard like a newspaper: the headline, the summary, and the details."* | To set expectations about the reading order.                                           |
+| *"Layer 1 – The Headline: This is your North Star Metric."*          | To introduce the most important number first.                                          |
+| *"Layer 2 – The Drivers: These are the levers that directly impact the headline."* | To explain the cause-and-effect relationship between metrics.                          |
+| *"Layer 3 – The Diagnostics: These tell you *why* the drivers are behaving the way they are."* | To introduce predictive or root-cause metrics.                                         |
+| *"If [Metric A] is green, you smile and move on. If it's red, you dig deeper."* | To give a clear, simple decision rule for executives.                                  |
+| *"The story on this dashboard is [X]."*                              | To summarize the current narrative in one sentence.                                    |
+| *"My recommendation: For your 30-second scan, just look at [specific tile]. Then, if needed, move to [specific row]."* | To train stakeholders on how to use the dashboard efficiently.                         |
+
+### Useful Phrases to Remember
+- **Designing for executives:** *"Executives have 30 seconds – make those 30 seconds count."*
+- **Differentiating between metrics:** *"This metric is diagnostic – it helps us understand the why. This metric is strategic – it tells us if we're winning."*
+- **Handling "I want more" requests:** *"We have 50 metrics in the back-end. I curated these 6 because they tell the complete story without noise. If you need more, we can drill down."* – sets boundaries.
+- **Teaching the flow:** *"Read this dashboard in three steps: Top → Middle → Bottom. Do not jump around."*
+- **Using color effectively:** *"Green means 'meets target', amber means 'monitor closely', red means 'action required within 48 hours'."* – defines a clear action protocol.
+
+### Practical Speaking Tips (for Dashboard Design and Presentation)
+1.  **Start with "Who is this for?"** Before you build a dashboard, ask: *"What decision will this dashboard enable?"* If you can't answer that, it's a data dump, not a dashboard.
+2.  **Follow the "Pyramid Principle" in design.** Top = the conclusion (the headline metric). Middle = the supporting arguments (the drivers). Bottom = the data/evidence (diagnostics). Do not put the details at the top – it buries the story.
+3.  **Limit tiles to 5-7.** Human working memory can hold about 7 items. If you have more than 7 tiles, you're forcing cognitive overload. Either group them or bury them in a secondary tab.
+4.  **Always include a "Trend Arrow" or "MoM change"**. A number alone is meaningless. A number with a direction (+3%) and a color (green) tells the whole story instantly.
+5.  **Walk stakeholders through it personally.** Never just email a dashboard link. Schedule a 15-minute walkthrough where you say: *"Here's how to read this. Here's what to look at. Here's what to do if you see red."* This builds adoption and trust.
+6.  **Build a "Glossary" tab.** Define every metric on the dashboard in plain English. This prevents confusion and reduces the flood of "What does this mean?" questions.

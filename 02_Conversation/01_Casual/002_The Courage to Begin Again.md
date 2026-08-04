@@ -13,7 +13,7 @@
 | **Alexis** | I want to start fresh. Not because I'm running away from my past, but because I want to move forward. |
 | **Alexa** | That's a powerful distinction. Starting fresh is about choosing growth, not escape. |
 | **Alexis** | I'm scared, though. What if I fail again? |
-| **Alexa** | Then you'll have learned something new. Failure isn't the opposite of success—it's part of it. |
+| **Alexa** | Then you'll have learned something new. Failure isn't the opposite of success, it's part of it. |
 | **Alexis** | I never thought of it that way. I've always seen failure as the end. |
 | **Alexa** | It's not the end. It's a redirection. It shows you what doesn't work so you can find what does. |
 | **Alexis** | I want to believe that. I want to give myself permission to try again. |

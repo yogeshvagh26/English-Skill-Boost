@@ -13,7 +13,7 @@
 | **Alexis** | I think I've been waiting for a guarantee that I'll get it right. But that doesn't exist. |
 | **Alexa** | Exactly. There's no such thing as a perfect decision. There's just the decision you make, and then you make it work. |
 | **Alexis** | I like that. "Make it work." That takes the pressure off. |
-| **Alexa** | It really does. Trusting yourself isn't about being right all the time—it's about being willing to handle whatever happens next. |
+| **Alexa** | It really does. Trusting yourself isn't about being right all the time, it's about being willing to handle whatever happens next. |
 | **Alexis** | How do I start trusting myself more? |
 | **Alexa** | Start small. Make a choice without asking anyone else. Something simple, like what to eat or what to wear. |
 | **Alexis** | That sounds so basic, but it's huge for me. I always check with others. |

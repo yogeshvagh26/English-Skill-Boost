@@ -1,0 +1,92 @@
+
+### 1. Situation Name : At a Pharmacy – Buying Medicine & Asking for Advice
+
+---
+
+### 2. Conversation
+
+*Setting: A local pharmacy. Emily has a headache and also needs to pick up a prescription. She speaks with the pharmacist, Dr. Patel.*
+
+| Speaker               | Dialogue                                                                                                                                                                                                                                                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pharmacist (Dr. Patel)** | Good afternoon! Welcome to Wellness Pharmacy. How can I help you today?                                                                                                                                                                                                                                                                            |
+| **Emily**             | Hi. I have a terrible headache, and I'm looking for something to relieve the pain. Do you have any over-the-counter options?                                                                                                                                                                                                                        |
+| **Dr. Patel**         | Absolutely. I can recommend ibuprofen or acetaminophen. Have you taken either of those before?                                                                                                                                                                                                                                                    |
+| **Emily**             | Yes, I've taken ibuprofen before, and it worked well.                                                                                                                                                                                                                                                                                              |
+| **Dr. Patel**         | Great. I'd recommend the 200 mg tablets. You can take one or two every 4 to 6 hours as needed, but don't exceed 6 tablets in 24 hours. Do you have any other symptoms?                                                                                                                                                                           |
+| **Emily**             | No, just the headache. I think it's from staring at my computer screen all day.                                                                                                                                                                                                                                                                   |
+| **Dr. Patel**         | That's common. Make sure you take breaks and stay hydrated too. Here's a bottle of ibuprofen. That'll be $8.50.                                                                                                                                                                                                                                   |
+| **Emily**             | Great. Also, I have a prescription that I need to pick up. It should be under the name Emily Carter.                                                                                                                                                                                                                                               |
+| **Dr. Patel**         | Let me check the system. … Yes, I have it here. It's amoxicillin – an antibiotic for your sinus infection. The doctor prescribed a 7-day course.                                                                                                                                                                                                 |
+| **Emily**             | Yes, that's right. How should I take this?                                                                                                                                                                                                                                                                                                        |
+| **Dr. Patel**         | You'll take one capsule every 8 hours – that's three times a day – with food to avoid stomach upset. It's very important to complete the full course, even if you start feeling better, to ensure the infection clears up completely.                                                                                                              |
+| **Emily**             | Got it. Are there any side effects I should watch out for?                                                                                                                                                                                                                                                                                        |
+| **Dr. Patel**         | Common side effects include mild nausea, diarrhea, or a slight rash. If you experience any severe reactions like difficulty breathing or swelling of your face, stop taking it and seek medical attention immediately. Also, avoid alcohol while you're on this medication.                                                                       |
+| **Emily**             | Understood. And can I take the ibuprofen with this antibiotic?                                                                                                                                                                                                                                                                                    |
+| **Dr. Patel**         | Yes, it's safe to combine them. Just space them out a little – take the ibuprofen with food if you're also taking the antibiotic with food.                                                                                                                                                                                                       |
+| **Emily**             | Perfect. How much do I owe for the prescription?                                                                                                                                                                                                                                                                                                  |
+| **Dr. Patel**         | Your insurance covers most of it. Your copay is $15.00. So your total today is $23.50 – $8.50 for the ibuprofen and $15.00 for the prescription.                                                                                                                                                                                                  |
+| **Emily**             | Here's my insurance card and my credit card.                                                                                                                                                                                                                                                                                                      |
+| **Dr. Patel**         | Thank you. *(processes the payment)* … Here's your receipt. And here are both medications. The ibuprofen is in this white bottle, and the antibiotic is in the orange bottle with the label. I've also attached a printout with detailed information about each medication.                                                                      |
+| **Emily**             | Thank you so much. Is there anything else I should know about the antibiotic?                                                                                                                                                                                                                                                                     |
+| **Dr. Patel**         | Yes – store it at room temperature, away from moisture. And please finish all the capsules, even if you feel better after a few days. If you have any questions after you go home, feel free to call us.                                                                                                                                          |
+| **Emily**             | I will. Thanks again for your help, Dr. Patel.                                                                                                                                                                                                                                                                                                    |
+| **Dr. Patel**         | You're welcome. Feel better soon!                                                                                                                                                                                                                                                                                                                 |
+
+---
+
+### 3. Vocabulary and Expressions
+
+| Word/Phrase                         | Part of Speech | Meaning                                                                                             | Example Sentence                                                                                     |
+| ----------------------------------- | -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Pharmacist**                      | Noun           | A medical professional who dispenses medications and gives advice about their use                  | *The pharmacist explained how to take my new prescription.*                                         |
+| **Over-the-counter (OTC)**          | Adjective      | Medicines that can be bought without a prescription from a doctor                                  | *I bought an over-the-counter cold remedy at the pharmacy.*                                         |
+| **Prescription**                    | Noun           | A doctor's written order for a specific medication                                                 | *The doctor gave me a prescription for antibiotics.*                                                |
+| **Ibuprofen / Acetaminophen**       | Noun           | Common over-the-counter pain relievers                                                              | *Ibuprofen helps with inflammation, while acetaminophen is better for fever.*                       |
+| **Dosage**                          | Noun           | The amount and frequency of medication to be taken                                                | *The dosage on the bottle says one tablet every six hours.*                                         |
+| **Exceed**                          | Verb           | To go beyond a limit                                                                               | *Do not exceed the recommended daily dose.*                                                         |
+| **Symptom**                         | Noun           | A physical or mental sign of an illness                                                            | *Common symptoms of the flu include fever, cough, and fatigue.*                                     |
+| **Hydrated**                        | Adjective      | Having enough water in the body                                                                    | *Drink plenty of water to stay hydrated while you're sick.*                                         |
+| **Antibiotic**                      | Noun           | A medication that kills bacteria and treats bacterial infections                                   | *Antibiotics are not effective against viral infections like the common cold.*                      |
+| **7-day course**                    | Noun phrase    | A treatment lasting 7 days with a specific medication schedule                                     | *The doctor prescribed a 7-day course of antibiotics.*                                              |
+| **Stomach upset**                   | Noun phrase    | Discomfort or pain in the digestive system                                                         | *Taking this medicine with food helps prevent stomach upset.*                                       |
+| **Complete the full course**        | Phrase         | To finish all the medication as prescribed, even if symptoms improve                                | *You must complete the full course of antibiotics to prevent the infection from returning.*          |
+| **Side effects**                    | Noun phrase    | Unwanted or unintended reactions to a medication                                                   | *Nausea and drowsiness are common side effects of this medication.*                                 |
+| **Nausea**                          | Noun           | A feeling of sickness in the stomach, sometimes leading to vomiting                                | *She experienced mild nausea after taking the painkiller.*                                          |
+| **Diarrhea**                        | Noun           | A condition with frequent, watery bowel movements                                                  | *Diarrhea can be a side effect of some antibiotics.*                                                |
+| **Rash**                            | Noun           | An area of red, irritated skin                                                                     | *If you develop a rash, stop taking the medication and consult your doctor.*                        |
+| **Allergic reaction**               | Noun phrase    | A serious immune system response to a substance                                                    | *Symptoms of an allergic reaction include hives and difficulty breathing.*                          |
+| **Seek medical attention**          | Phrase         | To go to a doctor or hospital for care                                                             | *If you experience chest pain, seek medical attention immediately.*                                 |
+| **Insurance**                       | Noun           | A financial plan that covers some or all medical costs                                             | *My health insurance covers most of my prescription costs.*                                         |
+| **Copay**                           | Noun           | A fixed amount you pay for a healthcare service after insurance covers the rest                    | *My copay for this prescription is only $10.*                                                       |
+| **Store at room temperature**       | Phrase         | Keep the medication in a place between 15–25°C, away from heat or cold                             | *These capsules need to be stored at room temperature, away from direct sunlight.*                  |
+| **Moisture**                        | Noun           | Small amounts of water or dampness                                                                 | *Keep the pills away from moisture to prevent them from spoiling.*                                  |
+| **Printout**                        | Noun           | A printed document with information                                                                | *The pharmacist gave me a printout with detailed instructions.*                                     |
+
+---
+
+### 4. Key Takeaways
+
+- **Common Sentence Patterns:**
+  - *"Do you have any over-the-counter options for [symptom]?"* – Asking for medication without a prescription.
+  - *"I recommend [medication name]."* – Giving professional advice.
+  - *"The doctor prescribed a [number]-day course."* – Explaining the treatment duration.
+  - *"How should I take this?"* – Asking for instructions on using medication.
+  - *"What are the side effects?"* – A crucial question about potential risks.
+  - *"It's very important to [instruction]."* – Emphasizing a critical step.
+  - *"Your insurance covers most of it – your copay is [amount]."* – Explaining the payment after insurance.
+
+- **Useful Phrases to Remember:**
+  - *"That's common."* – Reassuring the patient that their symptom is normal.
+  - *"Got it."* – A short way to say "I understand."
+  - *"Understood."* – A professional acknowledgement of instructions.
+  - *"If you have any questions, feel free to call us."* – An open invitation for follow-up queries.
+  - *"Feel better soon!"* – A kind, caring closing wish.
+
+- **Practical Speaking Tips:**
+  1. **Describe symptoms clearly** – When asking for medication, be specific about the problem: *"I have a headache,"* *"I have a sore throat,"* *"I have a fever."* If you have multiple symptoms, list them all: *"I have a cough, congestion, and body aches."*
+  2. **Know the difference between OTC and prescription** – *"Over-the-counter"* means you can buy it directly from the shelf. *"Prescription"* means you need a doctor's written order. Use these terms correctly.
+  3. **Always ask about interactions** – If you are already taking other medicines, say: *"Can I take this with my other medications?"* This is very important for safety.
+  4. **Confirm the dosage and timing** – Repeat the instructions to ensure you understood: *"So I take one capsule every 8 hours with food – is that right?"* This prevents mistakes.
+  5. **Report side effects immediately** – If you experience *"severe"* symptoms (e.g., swelling, breathing difficulty), know how to say: *"I'm having an allergic reaction"* and *"I need to seek medical attention."* This could save your life.
+  6. **Ask about generic vs. brand-name** – To save money, ask: *"Is there a generic version available?"* Pharmacists often recommend generics, which are cheaper but equally effective.

@@ -1,0 +1,97 @@
+### 1. Situation Name : At a Bookstore – Buying Books & Asking for Recommendations
+
+---
+
+### 2. Conversation
+
+*Setting: A cozy independent bookstore. Emma is looking for a good novel to read on her vacation. She speaks with a bookseller, David.*
+
+| Speaker           | Dialogue                                                                                                                                                                                                                                                                                                                          |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bookseller (David)** | Good afternoon! Welcome to Pages & Co. Is there anything specific you're looking for today?                                                                                                                                                                                                                                       |
+| **Emma**          | Hi! I'm going on vacation next week, and I'd like to pick up a couple of books to read on the beach. Do you have any recommendations?                                                                                                                                                                                             |
+| **David**         | Absolutely. I'd love to help. What genres do you usually enjoy – fiction, mystery, romance, science fiction, or non-fiction?                                                                                                                                                                                                      |
+| **Emma**          | I usually read literary fiction, but I'm open to trying something different. I love stories with strong characters and beautiful prose.                                                                                                                                                                                           |
+| **David**         | In that case, I have a few suggestions. Have you read anything by Celeste Ng? Her novel *Little Fires Everywhere* is beautifully written and explores family dynamics and secrets. It's also been adapted into a TV series.                                                                                                       |
+| **Emma**          | I've heard of that one but haven't read it yet. That sounds interesting. What else would you recommend?                                                                                                                                                                                                                           |
+| **David**         | If you want something more uplifting, I'd suggest *The House in the Cerulean Sea* by T.J. Klune. It's a heartwarming fantasy novel about found family and acceptance. It's lighthearted but still has depth.                                                                                                                     |
+| **Emma**          | That sounds lovely. I think I'll get both. Are they available in paperback?                                                                                                                                                                                                                                                       |
+| **David**         | Yes, we have both in paperback. We also have a special edition of *The House in the Cerulean Sea* with sprayed edges – it's a collector's edition, but it's a bit more expensive.                                                                                                                                                |
+| **Emma**          | I'll stick with the regular paperback. How much are they?                                                                                                                                                                                                                                                                         |
+| **David**         | *Little Fires Everywhere* is $16.99, and *The House in the Cerulean Sea* is $18.99. Together that comes to $35.98.                                                                                                                                                                                                                |
+| **Emma**          | That's reasonable. I'll take them. Also, I'm looking for a travel guide for Italy – something with maps and practical tips.                                                                                                                                                                                                      |
+| **David**         | We have a great selection of travel guides in the travel section. Let me show you. *(walks Emma to the travel aisle)* … We have Lonely Planet, Rick Steves, and DK Eyewitness. Lonely Planet is more budget-focused, Rick Steves is more cultural, and DK has beautiful photos but less detailed practical info.                  |
+| **Emma**          | I think I'll go with the Lonely Planet guide. I'm planning a budget trip.                                                                                                                                                                                                                                                         |
+| **David**         | Good choice. Here's the latest edition. That's $24.99.                                                                                                                                                                                                                                                                            |
+| **Emma**          | Great. I'll take that too. So my total today is three books.                                                                                                                                                                                                                                                                      |
+| **David**         | Yes, that brings your total to $60.97. Do you have our membership card? It gives you 10% off every purchase and a free book after you buy 10.                                                                                                                                                                                    |
+| **Emma**          | I don't. How much is the membership?                                                                                                                                                                                                                                                                                              |
+| **David**         | It's free to sign up. Just give me your email address, and you'll start earning points today.                                                                                                                                                                                                                                    |
+| **Emma**          | Okay, sure. My email is emma.reads@gmail.com.                                                                                                                                                                                                                                                                                     |
+| **David**         | Great. I've signed you up. With your 10% discount, your total is now $54.87. Will that be cash or card?                                                                                                                                                                                                                          |
+| **Emma**          | Card, please. *(pays)*                                                                                                                                                                                                                                                                                                           |
+| **David**         | Here's your receipt. You've already earned points toward your free book. Would you like a bag? We have paper bags for 25 cents or reusable tote bags for $3.00.                                                                                                                                                                  |
+| **Emma**          | I'll take a paper bag, please.                                                                                                                                                                                                                                                                                                    |
+| **David**         | Sure. Here you go. Enjoy your reading on vacation! And if you finish those, we have a great selection of e-books too.                                                                                                                                                                                                            |
+| **Emma**          | Thanks! I'll keep that in mind. And thanks so much for the recommendations – I'm really excited to start reading.                                                                                                                                                                                                                |
+| **David**         | You're very welcome. Come back and let me know what you think of them!                                                                                                                                                                                                                                                            |
+| **Emma**          | I will. Have a great day!                                                                                                                                                                                                                                                                                                         |
+| **David**         | You too!                                                                                                                                                                                                                                                                                                                          |
+
+---
+
+### 3. Vocabulary and Expressions
+
+| Word/Phrase                         | Part of Speech | Meaning                                                                                             | Example Sentence                                                                                     |
+| ----------------------------------- | -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Genre**                           | Noun           | A category of artistic work (e.g., fiction, mystery, romance)                                      | *What genre of books do you enjoy reading?*                                                         |
+| **Literary fiction**                | Noun phrase    | Novels with artistic merit, character-driven stories, and beautiful language                       | *She prefers literary fiction over commercial thrillers.*                                           |
+| **Prose**                           | Noun           | Written language in its ordinary form (not poetry)                                                 | *The author's prose is elegant and poetic.*                                                         |
+| **Uplifting**                       | Adjective      | Inspiring happiness or hope                                                                        | *This book is uplifting and left me feeling good.*                                                  |
+| **Found family**                    | Noun phrase    | A group of characters who form a close, supportive bond that feels like family                     | *The theme of found family is common in fantasy novels.*                                            |
+| **Lighthearted**                    | Adjective      | Cheerful and carefree                                                                              | *This is a lighthearted comedy perfect for a lazy afternoon.*                                       |
+| **Paperback**                       | Noun           | A book with a flexible paper cover                                                                 | *I prefer paperbacks because they're lighter to carry.*                                             |
+| **Hardcover**                       | Noun           | A book with a rigid cardboard cover                                                                | *Hardcovers are more expensive but last longer.*                                                    |
+| **Collector's edition**             | Noun phrase    | A special version of a book with extra features, often for collectors                              | *The collector's edition has a signed author page and illustrations.*                               |
+| **Sprayed edges**                   | Noun phrase    | Book pages with painted or colored edges for decoration                                            | *The limited edition has beautiful sprayed edges in gold.*                                          |
+| **Travel guide**                    | Noun phrase    | A book with information about a destination, including maps, hotels, and attractions               | *A good travel guide can save you time and money.*                                                  |
+| **Budget-focused**                  | Adjective      | Designed for people trying to save money                                                            | *Lonely Planet guides are budget-focused and great for backpackers.*                                |
+| **Cultural**                        | Adjective      | Related to the customs, arts, and social institutions of a group                                   | *Rick Steves gives cultural insights into European cities.*                                         |
+| **Latest edition**                  | Noun phrase    | The most recently published version of a book                                                      | *Always buy the latest edition of a travel guide for up-to-date information.*                       |
+| **Membership card**                 | Noun phrase    | A card that gives access to discounts and benefits at a store                                      | *Sign up for our membership card to save money.*                                                    |
+| **Sign up**                         | Phrase         | To register or join a program                                                                      | *You can sign up for the newsletter at the front desk.*                                            |
+| **Earn points**                     | Phrase         | To receive credits for purchases that can be redeemed later                                        | *For every dollar you spend, you earn points toward a discount.*                                    |
+| **Discount**                        | Noun           | A reduction in price                                                                               | *I got a 10% discount on my first purchase.*                                                       |
+| **Tote bag**                        | Noun           | A large, reusable bag with handles                                                                 | *I bought a canvas tote bag to carry my groceries.*                                                |
+| **Keep in mind**                    | Phrase         | To remember or consider something                                                                  | *Keep in mind that the store closes at 8 PM.*                                                      |
+| **Let me know**                     | Phrase         | A polite way to ask for information or feedback                                                    | *Let me know if you like the books I recommended.*                                                 |
+
+---
+
+### 4. Key Takeaways
+
+- **Common Sentence Patterns:**
+  - *"Do you have any recommendations?"* – Asking for suggestions.
+  - *"What genres do you usually enjoy?"* – Asking about reading preferences.
+  - *"I'd suggest [book title] by [author]."* – Making a recommendation.
+  - *"We have both in paperback."* – Confirming availability of a format.
+  - *"That brings your total to [price]."* – Stating the cost.
+  - *"Do you have our membership card?"* – Asking about loyalty programs.
+  - *"Would you like a bag?"* – Offering a bag for purchases.
+
+- **Useful Phrases to Remember:**
+  - *"I'd love to help."* – Showing eagerness to assist.
+  - *"That sounds interesting."* – Expressing curiosity about a suggestion.
+  - *"I'll stick with the regular one."* – Choosing the standard (cheaper) version.
+  - *"That's reasonable."* – Saying the price is fair.
+  - *"Good choice."* – Complimenting someone's decision.
+  - *"Come back and let me know what you think!"* – Encouraging feedback and returning.
+  - *"Enjoy your reading!"* – A kind wish for a reader.
+
+- **Practical Speaking Tips:**
+  1. **Be open about your preferences** – When asking for recommendations, be specific: say *"I love character-driven stories"* or *"I'm looking for a light read."* This helps the bookseller pick the perfect book for you.
+  2. **Don't be afraid to ask about formats** – If you prefer *"paperback"* over *"hardcover"* or want a *"special edition"* for a gift, ask clearly. Booksellers usually have multiple options.
+  3. **Ask about membership or loyalty programs** – Many bookstores offer free memberships with discounts. Ask: *"Do you have a loyalty program?"* or *"Is there a membership I can join?"* You'll save money in the long run.
+  4. **Inquire about return policies** – If you're unsure, ask: *"What's your return policy for books?"* Some stores allow returns within a certain period if the book is in perfect condition.
+  5. **Get follow-up recommendations** – If you liked a book, come back and say: *"I loved that book – can you recommend something similar?"* Booksellers love helping readers discover new favorites.
+  6. **Learn book-related vocabulary** – Knowing terms like *"genre,"* *"prose,"* *"plot,"* *"character development,"* and *"setting"* will help you articulate what you enjoyed or didn't enjoy about a book.

@@ -1,0 +1,88 @@
+### 1. Situation Name : At a Laundromat / Dry Cleaner – Dropping Off & Picking Up Clothes
+
+---
+
+### 2. Conversation
+
+*Setting: A local dry cleaning shop. Rachel needs to drop off some clothes for cleaning and pick up a suit she left earlier. She speaks with the shop attendant, Mr. Lee.*
+
+| Speaker           | Dialogue                                                                                                                                                                                                                                                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Attendant (Mr. Lee)** | Good morning! Welcome to Clean & Press Laundry. How can I help you today?                                                                                                                                                                                                                                                                         |
+| **Rachel**        | Hi! I have two things to do. First, I need to drop off these clothes for dry cleaning. And second, I'm here to pick up a suit I dropped off last Tuesday.                                                                                                                                                                                          |
+| **Mr. Lee**       | Sure. Let's start with the drop-off. Let me see what you have. *(looks at the items)* … I see a wool coat, a silk blouse, and a pair of trousers. Is that correct?                                                                                                                                                                               |
+| **Rachel**        | Yes, that's right.                                                                                                                                                                                                                                                                                                                                |
+| **Mr. Lee**       | And what kind of cleaning do you need? Standard dry cleaning, or do you need any special treatments – like stain removal or pressing?                                                                                                                                                                                                             |
+| **Rachel**        | The coat is fine, just standard cleaning. But the blouse has a small coffee stain on the sleeve – could you try to remove that? And the trousers need to be pressed with a sharp crease.                                                                                                                                                         |
+| **Mr. Lee**       | Absolutely. I'll make a note of that. Coffee stains can be tricky, but we'll do our best. Do you have a preferred turnaround time? We offer same-day service for an extra fee, next-day service, or standard 2 to 3 business days.                                                                                                                |
+| **Rachel**        | How much is the same-day service?                                                                                                                                                                                                                                                                                                                 |
+| **Mr. Lee**       | Same-day is an additional $10 per item. Next-day is an extra $5 per item. Standard is included in the base price.                                                                                                                                                                                                                                 |
+| **Rachel**        | I'll go with next-day service, please. I need them by Thursday.                                                                                                                                                                                                                                                                                   |
+| **Mr. Lee**       | Understood. Your total for the drop-off will be $28.50 – that's $12 for the coat, $9 for the blouse, and $7.50 for the trousers. The next-day surcharge adds $15, bringing it to $43.50.                                                                                                                                                          |
+| **Rachel**        | That's fine. Now for the pickup – I'm picking up a navy blue suit under the name Rachel Chen.                                                                                                                                                                                                                                                     |
+| **Mr. Lee**       | Let me check the system. … Yes, I have it here. Your suit is ready. The total for the suit was $18.50.                                                                                                                                                                                                                                            |
+| **Rachel**        | Great. And is there any discount for returning customers?                                                                                                                                                                                                                                                                                         |
+| **Mr. Lee**       | Yes, we have a loyalty program. If you bring in your receipt from your last visit, you get 10% off your next cleaning. Do you have it?                                                                                                                                                                                                            |
+| **Rachel**        | I think I do. Let me check my wallet. … Yes, here it is.                                                                                                                                                                                                                                                                                          |
+| **Mr. Lee**       | Perfect. I'll apply that discount to today's drop-off. So your total for today – drop-off with the discount and the suit pickup – comes to $62.00 minus the 10% discount ($6.20), which brings it to $55.80.                                                                                                                                      |
+| **Rachel**        | That's great. Here's my card. *(pays)*                                                                                                                                                                                                                                                                                                            |
+| **Mr. Lee**       | Thank you. Here's your claim ticket for the drop-off. It has your order number and the pickup date – which will be Thursday afternoon after 3 PM. And here's your suit, freshly pressed.                                                                                                                                                         |
+| **Rachel**        | *(inspects the suit)* It looks perfect. Thank you! Also, do you do alterations – like hemming pants or taking in a dress?                                                                                                                                                                                                                        |
+| **Mr. Lee**       | Yes, we do. We have an in-house tailor. It usually takes 2 to 3 days, depending on the complexity. Would you like a price estimate?                                                                                                                                                                                                              |
+| **Rachel**        | Not today, but I'll keep that in mind for next time. Thanks for your help!                                                                                                                                                                                                                                                                        |
+| **Mr. Lee**       | You're welcome. Have a great day, and we'll see you Thursday for your pickup!                                                                                                                                                                                                                                                                     |
+| **Rachel**        | Thanks! Goodbye!                                                                                                                                                                                                                                                                                                                                  |
+
+---
+
+### 3. Vocabulary and Expressions
+
+| Word/Phrase                         | Part of Speech | Meaning                                                                                             | Example Sentence                                                                                     |
+| ----------------------------------- | -------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Drop off**                        | Verb phrase    | To leave something at a place for a service                                                        | *I need to drop off my dry cleaning before work.*                                                   |
+| **Pick up**                         | Verb phrase    | To collect something that was left for service                                                     | *I'm here to pick up my suit.*                                                                       |
+| **Dry cleaning**                    | Noun           | A cleaning process using chemical solvents instead of water                                        | *Wool and silk items usually need dry cleaning.*                                                    |
+| **Stain removal**                   | Noun phrase    | The process of removing marks or spots from fabric                                                  | *The stain removal on my shirt was very effective.*                                                 |
+| **Pressing**                        | Noun           | Ironing clothes to remove wrinkles, especially for formal wear                                     | *My trousers need pressing for the meeting.*                                                        |
+| **Sharp crease**                    | Noun phrase    | A clearly defined, straight fold pressed into trousers                                             | *I like a sharp crease on my dress pants.*                                                          |
+| **Turnaround time**                 | Noun phrase    | The time needed to complete a service                                                              | *The turnaround time for dry cleaning is usually 2 to 3 days.*                                      |
+| **Same-day service**                | Noun phrase    | A service completed on the same day it's dropped off                                               | *I paid extra for same-day service because I needed it urgently.*                                   |
+| **Next-day service**                | Noun phrase    | A service completed on the following day                                                           | *Next-day service is cheaper than same-day.*                                                        |
+| **Surcharge**                       | Noun           | An extra fee added to the base price                                                               | *There's a surcharge for express service.*                                                          |
+| **Loyalty program**                 | Noun phrase    | A system that rewards regular customers with discounts or benefits                                 | *Our loyalty program gives you 10% off after five visits.*                                          |
+| **Claim ticket**                    | Noun phrase    | A receipt or tag given as proof that you left items for service                                    | *Keep your claim ticket to pick up your clothes.*                                                   |
+| **Order number**                    | Noun phrase    | A unique code identifying your specific order                                                      | *Your order number is on the claim ticket.*                                                         |
+| **Freshly pressed**                 | Adjective      | Newly ironed and wrinkle-free                                                                      | *The shirt came back freshly pressed and neatly folded.*                                            |
+| **Alterations**                     | Noun           | Adjustments made to clothing for a better fit (e.g., hemming, taking in)                           | *She does alterations like shortening sleeves and taking in dresses.*                               |
+| **Hemming**                         | Noun           | Shortening or finishing the bottom edge of pants or skirts                                         | *Hemming pants is a common alteration.*                                                             |
+| **Taking in**                       | Phrase         | Making a garment narrower or tighter                                                               | *The dress was too loose, so I had it taken in.*                                                    |
+| **In-house tailor**                 | Noun phrase    | A tailor who works directly within the store                                                       | *They have an in-house tailor for alterations.*                                                     |
+| **Complexity**                      | Noun           | The level of difficulty of a task                                                                  | *The cost depends on the complexity of the alteration.*                                             |
+
+---
+
+### 4. Key Takeaways
+
+- **Common Sentence Patterns:**
+  - *"I need to drop off [items] for [service]."* – Stating the purpose of your visit.
+  - *"What kind of cleaning do you need?"* – Asking about service preferences.
+  - *"Do you have a preferred turnaround time?"* – Asking about processing speed.
+  - *"How much is [specific service]?"* – Inquiring about cost.
+  - *"I'm here to pick up [item] under the name [name]."* – Stating your pickup purpose.
+  - *"Your total for today comes to [amount]."* – Giving the total cost.
+
+- **Useful Phrases to Remember:**
+  - *"I'll do my best."* – A reassuring response to a request.
+  - *"Understood."* – Acknowledging instructions.
+  - *"That's fine."* – Accepting a price or condition.
+  - *"Perfect!"* – Expressing satisfaction with results.
+  - *"I'll keep that in mind."* – Remembering information for future use.
+  - *"Have a great day!"* – A warm, polite closing.
+
+- **Practical Speaking Tips:**
+  1. **Specify fabric types and stains clearly** – When dropping off clothes, mention the material (*"wool coat,"* *"silk blouse"*) and any stains (*"coffee stain on the sleeve"*). This helps the cleaner choose the right treatment and saves time.
+  2. **Understand your cleaning options** – Know the difference between *"dry cleaning"* (chemical process for delicate fabrics) and *"laundry"* (water-based cleaning). Ask: *"Does this item need dry cleaning or can it be washed?"*
+  3. **Ask about turnaround time upfront** – If you need clothes quickly, say: *"I need this by [day/time] – is that possible?"* The attendant will tell you if it's possible and what extra charges apply.
+  4. **Inspect your clothes upon pickup** – Before leaving the store, check your items to ensure they are clean, pressed, and free of damage. If there's an issue, say: *"I noticed [problem] – could you fix this?"* It's easier to resolve in person than later.
+  5. **Inquire about care instructions** – When picking up, ask: *"Are there any special care instructions I should follow?"* This helps you maintain the garment at home.
+  6. **Ask about loyalty programs and discounts** – Many cleaners have loyalty cards or offers. Ask: *"Do you have any discounts for regular customers?"* or *"Is there a frequent customer program?"* This can save you money over time.
